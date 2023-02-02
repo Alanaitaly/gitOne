@@ -9,4 +9,5 @@
 
 [Braies](https://ru.wikipedia.org/wiki/%D0%91%D1%80%D0%B0%D0%B5%D1%81)
 
-> **git.branch** - добавить новую ветку
+> **git.branch** - add a new branch
+> **solved the merge**
