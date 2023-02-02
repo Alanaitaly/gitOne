@@ -12,3 +12,6 @@
 > **git.branch** - add a new branch
 > **solved the merge**
 > **merged master with first_branch**
+
+
+[This is a russian bear!](https://en.wikipedia.org/wiki/Russia)
