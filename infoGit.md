@@ -12,3 +12,5 @@
 > **git.branch** - add a new branch
 > **solved the merge**
 > **merged master with first_branch**
+
+![](https://i.pinimg.com/originals/db/0d/88/db0d882eb7f35e3ae8e631b3bb1596c5.jpg)
