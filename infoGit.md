@@ -15,3 +15,4 @@
 
 
 [This is a russian bear!](https://en.wikipedia.org/wiki/Russia)
+![](https://i.pinimg.com/originals/db/0d/88/db0d882eb7f35e3ae8e631b3bb1596c5.jpg)
